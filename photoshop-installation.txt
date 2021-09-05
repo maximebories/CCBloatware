@@ -1,0 +1,165 @@
+❯ /Volumes/Photoshop\ Installer/Photoshop\ Installer.app/Contents/MacOS/Install ; exit;
+2021-09-03 22:56:54.945 Install[37929:1697301] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/maxime/Library/HTTPStorages/com.adobe.cc.Install.binarycookies
+2021-09-03 22:56:55.164 Install[37929:1697301] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2021-09-03 22:56:55.164 Install[37929:1697301] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2021-09-03 22:56:55.201 Install[37929:1697301] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2021-09-03 22:56:55.201 Install[37929:1697301] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2021-09-03 22:56:55.202 Install[37929:1697301] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2021-09-03 22:56:55.202 Install[37929:1697301] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2021-09-03 22:56:55.522 Install[37929:1697301] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2021-09-03 22:56:55.522 Install[37929:1697301] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2021-09-03 22:56:55.546 Install[37929:1697301] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2021-09-03 22:56:55.546 Install[37929:1697301] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2021-09-03 22:56:55.550 Install[37929:1697301] *** WARNING: Method convertPointToBase: in class NSView is deprecated on 10.7 and later. It should not be used in new applications. 
+2021-09-03 22:57:54.643 Install[37929:1697301] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2021-09-03 22:57:54.643 Install[37929:1697301] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2021-09-03 22:57:57.296 Install[37929:1697301] CFURLRequestSetHTTPCookieStorageAcceptPolicy_block_invoke: no longer implemented and should not be called
+2021-09-03 22:58:38.381 Install[37929:1697301] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2021-09-03 22:58:38.381 Install[37929:1697301] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2021-09-03 22:58:38.885 Install[37929:1697301] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2021-09-03 22:58:38.885 Install[37929:1697301] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2021-09-03 23:00:09.125 Adobe Desktop Service[38176:1702864] Throttle bucket for current UUID is 80.000000
+2021-09-03 23:00:09.191 Adobe Desktop Service[38176:1702864] AdobeCrashReporterInitialize: executionTime = 0.069249 seconds
+2021-09-03 23:00:09.191 Adobe Desktop Service[38176:1702864] AdobeCrashReporterReInitialize completed
+2021-09-03 23:00:09.245 AdobeCRDaemon[38185:1702926] CR dialog Preference for force quit 0
+objc[38176]: Class HTTPHeader is implemented in both /Library/Application Support/Adobe/Adobe Desktop Common/Core/AdobePIM.dylib (0x10a9bd7c0) and /Library/Application Support/Adobe/Adobe Desktop Common/Notifications/NotificationManager.dylib (0x10bb6d300). One of the two will be used. Which one is undefined.
+objc[38176]: Class ProxyManager is implemented in both /Library/Application Support/Adobe/Adobe Desktop Common/Core/AdobePIM.dylib (0x10a9bd810) and /Library/Application Support/Adobe/Adobe Desktop Common/Notifications/NotificationManager.dylib (0x10bb6d350). One of the two will be used. Which one is undefined.
+2021-09-03 23:00:09.619 Creative Cloud Helper[38187:1702956] Throttle bucket for current UUID is 80.000000
+2021-09-03 23:00:09.679 Creative Cloud Helper[38187:1702956] AdobeCrashReporterInitialize: executionTime = 0.061878 seconds
+2021-09-03 23:00:09.679 Creative Cloud Helper[38187:1702956] AdobeCrashReporterReInitialize completed
+2021-09-03 23:00:09.730 AdobeCRDaemon[38193:1703001] CR dialog Preference for force quit 0
+2021-09-03 23:00:10.323 Adobe Desktop Service[38176:1702864] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/maxime/Library/HTTPStorages/com.adobe.acc.AdobeDesktopService.binarycookies
+objc[38176]: Class HTTPHeader is implemented in both /Library/Application Support/Adobe/Adobe Desktop Common/Core/AdobePIM.dylib (0x10a9bd7c0) and /Library/Application Support/Adobe/Adobe Desktop Common/ADS/ContainerBL.dylib (0x10d419ac0). One of the two will be used. Which one is undefined.
+objc[38176]: Class ProxyManager is implemented in both /Library/Application Support/Adobe/Adobe Desktop Common/Core/AdobePIM.dylib (0x10a9bd810) and /Library/Application Support/Adobe/Adobe Desktop Common/ADS/ContainerBL.dylib (0x10d419b10). One of the two will be used. Which one is undefined.
+objc[38176]: Class HTTPHeader is implemented in both /Library/Application Support/Adobe/Adobe Desktop Common/Core/AdobePIM.dylib (0x10a9bd7c0) and /Library/Application Support/Adobe/Adobe Desktop Common/Notifications/HomePanelBL.bundle/Contents/MacOS/HomePanelBL (0x10ec21290). One of the two will be used. Which one is undefined.
+objc[38176]: Class ProxyManager is implemented in both /Library/Application Support/Adobe/Adobe Desktop Common/Core/AdobePIM.dylib (0x10a9bd810) and /Library/Application Support/Adobe/Adobe Desktop Common/Notifications/HomePanelBL.bundle/Contents/MacOS/HomePanelBL (0x10ec212e0). One of the two will be used. Which one is undefined.
+objc[38176]: Class HTTPHeader is implemented in both /Library/Application Support/Adobe/Adobe Desktop Common/Core/AdobePIM.dylib (0x10a9bd7c0) and /Library/Application Support/Adobe/Adobe Desktop Common/AppsPanel/AppsPanelIL.dylib (0x120829e40). One of the two will be used. Which one is undefined.
+objc[38176]: Class ProxyManager is implemented in both /Library/Application Support/Adobe/Adobe Desktop Common/Core/AdobePIM.dylib (0x10a9bd810) and /Library/Application Support/Adobe/Adobe Desktop Common/AppsPanel/AppsPanelIL.dylib (0x120829e90). One of the two will be used. Which one is undefined.
+objc[38176]: Class HTTPHeader is implemented in both /Library/Application Support/Adobe/Adobe Desktop Common/Core/AdobePIM.dylib (0x10a9bd7c0) and /Library/Application Support/Adobe/Adobe Desktop Common/HDBox/HDPIM.dylib (0x120d11b18). One of the two will be used. Which one is undefined.
+objc[38176]: Class ProxyManager is implemented in both /Library/Application Support/Adobe/Adobe Desktop Common/Core/AdobePIM.dylib (0x10a9bd810) and /Library/Application Support/Adobe/Adobe Desktop Common/HDBox/HDPIM.dylib (0x120d11b68). One of the two will be used. Which one is undefined.
+2021-09-03 23:00:10.595 Adobe Desktop Service[38176:1702864] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2021-09-03 23:00:10.595 Adobe Desktop Service[38176:1702864] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2021-09-03 23:00:10.602 Adobe Desktop Service[38176:1702864] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2021-09-03 23:00:10.602 Adobe Desktop Service[38176:1702864] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2021-09-03 23:00:10.664 Adobe Desktop Service[38176:1702864] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2021-09-03 23:00:10.664 Adobe Desktop Service[38176:1702864] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2021-09-03 23:00:10.666 Adobe Desktop Service[38176:1702864] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2021-09-03 23:00:10.666 Adobe Desktop Service[38176:1702864] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2021-09-03 23:00:10.668 Adobe Desktop Service[38176:1702864] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2021-09-03 23:00:10.668 Adobe Desktop Service[38176:1702864] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2021-09-03 23:00:10.671 Adobe Desktop Service[38176:1702864] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2021-09-03 23:00:10.671 Adobe Desktop Service[38176:1702864] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2021-09-03 23:00:10.679 Adobe Desktop Service[38176:1702864] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2021-09-03 23:00:10.679 Adobe Desktop Service[38176:1702864] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2021-09-03 23:00:10.680 Adobe Desktop Service[38176:1702864] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2021-09-03 23:00:10.680 Adobe Desktop Service[38176:1702864] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2021-09-03 23:00:10.680 Adobe Desktop Service[38176:1702864] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2021-09-03 23:00:10.680 Adobe Desktop Service[38176:1702864] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2021-09-03 23:00:10.683 Creative Cloud Helper[38203:1703097] Throttle bucket for current UUID is 80.000000
+2021-09-03 23:00:10.705 Creative Cloud Helper[38203:1703097] AdobeCrashReporterInitialize: executionTime = 0.024246 seconds
+2021-09-03 23:00:10.706 Creative Cloud Helper[38203:1703097] AdobeCrashReporterReInitialize completed
+2021-09-03 23:00:10.749 AdobeCRDaemon[38209:1703146] CR dialog Preference for force quit 0
+objc[38203]: Class HTTPHeader is implemented in both /Library/Application Support/Adobe/Adobe Desktop Common/Core/AdobePIM.dylib (0x10bd4d7c0) and /Library/Application Support/Adobe/Adobe Desktop Common/RemoteComponents/UPI/UPI.dylib (0x10ce592e0). One of the two will be used. Which one is undefined.
+objc[38203]: Class ProxyManager is implemented in both /Library/Application Support/Adobe/Adobe Desktop Common/Core/AdobePIM.dylib (0x10bd4d810) and /Library/Application Support/Adobe/Adobe Desktop Common/RemoteComponents/UPI/UPI.dylib (0x10ce59330). One of the two will be used. Which one is undefined.
+key
+value
+key
+value
+key
+value
+key
+value
+key
+value
+key
+value
+key
+value
+key
+value
+key
+value
+key
+value
+key
+value
+key
+value
+key
+value
+key
+value
+key
+value
+key
+value
+key
+value
+key
+value
+key
+value
+key
+value
+key
+value
+key
+value
+key
+value
+key
+value
+key
+value
+key
+value
+key
+value
+key
+value
+key
+value
+key
+value
+key
+value
+key
+value
+key
+value
+2021-09-03 23:00:11.795 Adobe Desktop Service[38176:1703125] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2021-09-03 23:00:11.795 Adobe Desktop Service[38176:1703125] nil host used in call to allowsAnyHTTPSCertificateForHost:
+Usage:  diskutil info[rmation] [-plist]
+        MountPoint|DiskIdentifier|DeviceNode|UUID | -all
+Display detailed information about a disk or partition.
+Root or administrator access is not required.
+Usage:  diskutil info[rmation] [-plist]
+        MountPoint|DiskIdentifier|DeviceNode|UUID | -all
+Display detailed information about a disk or partition.
+Root or administrator access is not required.
+Usage:  diskutil info[rmation] [-plist]
+        MountPoint|DiskIdentifier|DeviceNode|UUID | -all
+Display detailed information about a disk or partition.
+Root or administrator access is not required.
+2021-09-03 23:02:33.093 Creative Cloud[38646:1708455] Throttle bucket for current UUID is 80.000000
+2021-09-03 23:02:33.185 Creative Cloud[38646:1708455] AdobeCrashReporterInitialize: executionTime = 0.097592 seconds
+2021-09-03 23:02:33.186 Creative Cloud[38646:1708455] AdobeCrashReporterReInitialize completed
+2021-09-03 23:02:33.253 AdobeCRDaemon[38656:1708531] CR dialog Preference for force quit 0
+2021-09-03 23:02:34.532 Adobe Desktop Service[38667:1708774] Throttle bucket for current UUID is 80.000000
+2021-09-03 23:02:34.588 Adobe Desktop Service[38667:1708774] AdobeCrashReporterInitialize: executionTime = 0.085805 seconds
+2021-09-03 23:02:34.588 Adobe Desktop Service[38667:1708774] AdobeCrashReporterReInitialize completed
+[0903/230234.620341:ERROR:disk_cache.cc(184)] Unable to create cache
+[0903/230234.621050:ERROR:shader_disk_cache.cc(606)] Shader Cache Creation failed: -2
+2021-09-03 23:02:34.665 AdobeCRDaemon[38676:1708851] CR dialog Preference for force quit 0
+Usage:  diskutil info[rmation] [-plist]
+        MountPoint|DiskIdentifier|DeviceNode|UUID | -all
+Display detailed information about a disk or partition.
+Root or administrator access is not required.
+2021-09-03 23:02:42.143 AdobeCRDaemon[38676:1708851] exitStatus -1
+2021-09-03 23:02:55.324 Creative Cloud[38701:1709794] Throttle bucket for current UUID is 80.000000
+2021-09-03 23:02:57.183 Creative Cloud[38701:1709794] AdobeCrashReporterInitialize: executionTime = 1.882067 seconds
+2021-09-03 23:02:57.183 Creative Cloud[38701:1709794] AdobeCrashReporterReInitialize completed
+2021-09-03 23:02:57.391 AdobeCRDaemon[38707:1709988] CR dialog Preference for force quit 0
+Saving session...completed.
+
+[Process completed]
